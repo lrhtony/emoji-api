@@ -11,7 +11,7 @@ Waline使用
 
 ## 使用
 ### bilibili UP主大表情
-```http request
+```
 /bili/up/<uid>/<format>
 ```
 | 参数     | 说明                             | 是否必要 |
